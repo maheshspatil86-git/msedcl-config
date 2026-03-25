@@ -1,0 +1,12 @@
+#configuration
+build:
+    version: 1.0
+
+customer:
+    message: "Welcome to MyBank Customer related REST APIs"
+    contactDetails:
+        name: "customer service"
+        email: "customer@mybank.com"
+    onCallSupport:
+        - 998877
+        - 112233

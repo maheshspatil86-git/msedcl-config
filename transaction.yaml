@@ -1,0 +1,12 @@
+#configuration
+build:
+    version: 1.0
+
+transaction:
+    message: "Welcome to MyBank Transaction related REST APIs"
+    contactDetails:
+        name: "transaction service"
+        email: "transaction@mybank.com"
+    onCallSupport:
+        - 665544
+        - 121212

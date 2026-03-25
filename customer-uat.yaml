@@ -1,0 +1,12 @@
+#configuration
+build:
+    version: 1.0
+
+customer:
+    message: "Welcome to MyBank Customer related REST APIs - UAT"
+    contactDetails:
+        name: "customer service uat"
+        email: "customer-uat@mybank.com"
+    onCallSupport:
+        - 9988776655
+        - 1122334455

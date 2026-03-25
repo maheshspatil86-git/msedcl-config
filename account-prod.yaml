@@ -1,0 +1,12 @@
+#configuration
+build:
+    version: 1.0
+
+accounts:
+    message: "Welcome to MyBank account related REST APIs - PROD"
+    contactDetails:
+        name: "PROD"
+        email: "prod@msedcl.in"
+    onCallSupport:
+        - 9876598765
+        - 1234512345

@@ -1,0 +1,12 @@
+#configuration
+build:
+    version: 1.0
+
+transaction:
+    message: "Welcome to MyBank account related REST APIs - PROD"
+    contactDetails:
+        name: "transaction service prod"
+        email: "transaction-prod@mybank.com"
+    onCallSupport:
+        - 9876598765
+        - 1234512345

@@ -1,0 +1,12 @@
+#configuration
+build:
+    version: 1.0
+
+customer:
+    message: "Welcome to MyBank Customer related REST APIs - PROD"
+    contactDetails:
+        name: "customer service prod"
+        email: "customer-prod@mybank.com"
+    onCallSupport:
+        - 9876598765
+        - 1234512345
