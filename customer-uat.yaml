@@ -3,10 +3,10 @@ build:
     version: 1.0
 
 customer:
-    message: "Welcome to MyBank Customer related REST APIs - UAT"
+    message: "Welcome to MyBank Customer related REST APIs -> UAT"
     contactDetails:
-        name: "customer service uat"
+        name: "Customer Service UAT"
         email: "customer-uat@mybank.com"
     onCallSupport:
-        - 9988776655
-        - 1122334455
+        - 98765
+        - 12345
